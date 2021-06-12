@@ -5,4 +5,4 @@ run predict.py to generate the prediction images
 python -m predict --image_dir <>--pre_dir <> --model_path <>  
 run evaluation.py to evaluate  
 python -m evaluation --gt_dir <> --pred_dir <> --clf False  
-The prediction images in Prediction
+The prediction images in Prediction and Predictionex
